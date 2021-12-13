@@ -1,2 +1,2 @@
-Hola pruebas de funcionamiento.
+Hola pruebas de funcionamiento versión 1.0.
 Se agrega una nueva línea de ćodigo
